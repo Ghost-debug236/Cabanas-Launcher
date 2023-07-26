@@ -1,11 +1,11 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
-    "version": "1.3.0",
-    "description": "Launcher Mincraft custom (crack, premium)",
+    "name": "Cabanas-Launcher",
+    "preductname": "Welton",
+    "version": "1.0.0",
+    "description": "O melhor servidor do Brazil",
     "main": "src/app.js",
-    "author": "Luuxis",
-    "url": "http://craftdium.ml/launcherSelvania",
+    "author": "Welton",
+    "url": "http://localhost:80",
     "engines": {
         "node": "^18.x.x"
     },
@@ -34,6 +34,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/Ghost-debug236/Cabanas-Launcher"
     }
 }
